@@ -119,7 +119,7 @@ const Projects = () => {
           />
           <Project
             title="Sky News"
-            url="/project4"
+            url="https://www.figma.com/file/7T79EqgYg46fv0ysuXhnln/SSNews?type=design&t=Xct2aAfYllkcC7Nf-6"
             imgSrc={project2Image}
             desc="Designed a website named Sky News (it's all about news).
             Designed wireframes and interactive prototypes using Figma
