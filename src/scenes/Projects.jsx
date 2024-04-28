@@ -48,7 +48,7 @@ const Project = ({ title, url, imgSrc, desc }) => {
 const Projects = () => {
   return (
     <section id="projects" className="pt-48 pb-48">
-      {/* HEADINGS */}
+
       <motion.div
         className="md:w-2/5 mx-auto text-center"
         initial="hidden"
@@ -75,7 +75,6 @@ const Projects = () => {
         </p>
       </motion.div>
 
-      {/* PROJECTS */}
       <div className="flex justify-center">
         <motion.div
           className="sm:grid sm:grid-cols-3"
@@ -84,7 +83,7 @@ const Projects = () => {
           whileInView="visible"
           viewport={{once: true, amount: 0.2}}
         >
-          {/* ROW 1 */}
+
           <div className="flex justify-center text-center items-center p-10 bg-red
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold">
             BEAUTIFUL USER INTERFACES
@@ -107,7 +106,6 @@ const Projects = () => {
             - Conducted interviews and research for the designing team."
           />
 
-          {/* ROW 2 */}
           <Project
             title="Property Forager"
             url="https://www.figma.com/file/XZ8OAeaHJ7sIXLoC7NozIl?type=design"
