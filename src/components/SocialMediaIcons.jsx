@@ -8,7 +8,7 @@ const SocialMediaIcons = () => {
     <div className="flex justify-center md:justify-start my-10 gap-7">
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.linkedin.com"
+        href="https://www.linkedin.com/in/samuel-chidi-0b4452235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         target="_blank"
         rel="noreferrer"
       >
@@ -16,7 +16,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.twitter.com"
+        href="https://twitter.com/Samuelchukwuk12?t=rYVpq3na8cVYTw5KZDr_JA&s=35"
         target="_blank"
         rel="noreferrer"
       >
@@ -24,7 +24,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.facebook.com"
+        href="https://www.facebook.com/share/F1hiUt9oHRrCpn8C/?mibextid=qi2Omg"
         target="_blank"
         rel="noreferrer"
       >
@@ -32,7 +32,7 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.instagram.com"
+        href="https://www.instagram.com/samuel_chukwuka_chidi?igsh=MWV4YWhjc21tcDMxZg=="
         target="_blank"
         rel="noreferrer"
       >
